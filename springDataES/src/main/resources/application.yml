@@ -7,3 +7,6 @@ spring:
       sniff: false
       cluster-name: ori_test_es
       cluster-nodes: 10.30.0.41:9300,10.30.0.42:9300
+
+logging: 
+  config: classpath:log4j2.xml
