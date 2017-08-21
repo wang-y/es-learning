@@ -12,6 +12,7 @@
 	<modules>
 		<module>java-api</module>
 		<module>springDataES</module>
+		<module>springDataES-2.0.0.M3</module>
 	</modules>
 	<build>
 		<plugins>

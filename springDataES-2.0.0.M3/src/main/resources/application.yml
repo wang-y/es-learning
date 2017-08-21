@@ -1,0 +1,8 @@
+server:
+  port: 80
+  
+spring:
+  data:
+    elasticsearch:
+      cluster-name: ori_test_es
+      cluster-nodes: 10.30.0.41:9300,10.30.0.42:9300
