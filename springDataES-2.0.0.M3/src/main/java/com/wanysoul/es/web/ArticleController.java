@@ -1,4 +1,4 @@
-package com.wanysoul.es;
+package com.wanysoul.es.web;
 
 import java.util.Date;
 import java.util.Iterator;
